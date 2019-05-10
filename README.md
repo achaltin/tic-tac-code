@@ -1,6 +1,6 @@
 # Tic-Tac-Code
 
-This code was developed as a beginner's python workshop for the 2019 Code.Chi conference. The complete code is included, but for workshop purposes, omit parts as necessary. 
+This code was developed as a beginner's python workshop for the 2019 Code.Chi conference. The complete code is included, but for workshop purposes, omit parts as necessary. If you reuse my code, please credit me by displaying the link to my website: ameliachaltin.com. You may also copy, modify, and use my [workshop slides](https://docs.google.com/presentation/d/1ZvGFuBn0QQQAZJctD4DGW-IDkkoC4NU-JY2guh6-VZ4/edit?usp=sharing) with credit. Have fun!
 
 ## Recommended Workshops
 
